@@ -1,0 +1,22 @@
+body{
+	background: url("../img/fondo.jpg");
+	color: #fff;
+}
+#hora{
+	font-size: 7.5em;
+	padding-top: 2%;
+}
+#fecha{
+	font-size: 1.5em;
+	padding-bottom: 3%;
+}
+.modal-body{
+	color: #000;
+}
+.modal-body ul li{
+	list-style:none;
+}
+button{
+	display: block;
+	margin: auto;
+}
